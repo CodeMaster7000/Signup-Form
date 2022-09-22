@@ -1,2 +1,3 @@
-# Form
-A model sign up form coded in HTML.
+# Interactive Form
+
+An interactive model sign up form coded in HTML.
